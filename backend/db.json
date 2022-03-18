@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Açaí",
+      "price": "20.0",
+      "id": 3
+    },
+    {
+      "name": "Carro GOL",
+      "price": "2.2",
+      "id": 5
+    },
+    {
+      "name": "Coca-Cola Zero",
+      "price": "2.50",
+      "id": 6
+    }
+  ]
+}
